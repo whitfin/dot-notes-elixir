@@ -1,7 +1,7 @@
 # dot-notes-elixir
 [![Build Status](https://img.shields.io/travis/zackehh/dot-notes-elixir.svg)](https://travis-ci.org/zackehh/dot-notes-elixir) [![Coverage Status](https://img.shields.io/coveralls/zackehh/dot-notes-elixir.svg)](https://coveralls.io/github/zackehh/dot-notes-elixir) [![Hex.pm Version](https://img.shields.io/hexpm/v/dot_notes.svg)](https://hex.pm/packages/dot_notes) [![Documentation](https://img.shields.io/badge/docs-latest-yellowgreen.svg)](https://hexdocs.pm/dot_notes/)
 
-This library is an Elixir port of [dot-notes](http://github.com/zackehh/dot-notes-js) to work with Elixir Maps/Lists. The interface is the same, but please check out the [Hexdocs](https://hexdocs.pm/dot_notes/) for example usage.
+This library is an Elixir port of [dot-notes](http://github.com/zackehh/dot-notes-js) to work with Elixir Maps/Lists. The interface is the same, but please check out the [Hexdocs](https://hexdocs.pm/dot_notes/DotNotes.html) for example usage.
 
 Currently this library is only v1.0.0 but implements the same behaviour at v3.1 of the main JavaScript library. At some point in future there are plans to align all ports and make a specification in order to detail new features more easily.
 
