@@ -11,11 +11,11 @@ dot-notes-elixir is available on [Hex](https://hex.pm/). You can install the pac
 
   1. Add dot-notes-elixir to your list of dependencies in `mix.exs`:
 
-    ```elixir
-    def deps do
-      [{:dot_notes, "~> 1.0.0"}]
-    end
-    ```
+```elixir
+  def deps do
+    [{:dot_notes, "~> 1.0.0"}]
+  end
+```
 
 ## Differences to the JavaScript API
 
